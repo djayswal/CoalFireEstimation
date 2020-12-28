@@ -12,13 +12,15 @@ Infrastructure needs and procedure to develop an information management system a
 Previously, for the purpose of detection of “Mine Fire” manual system was used. Computerization of the above systein make it economical, technical and efficient. The
 above feasibility has to be decided with due care. The reason thereof is the inherent factor of project risk.
 
+
 ![GetStarted](https://github.com/djayswal/CoalFireEstimation/blob/master/Coal%20Fire%20Estimation%20Images/File%20Dynamics%20Csir%20Project.PNG)
 
 ![GetStarted](https://github.com/djayswal/CoalFireEstimation/blob/master/Coal%20Fire%20Estimation%20Images/Enter%20Data.PNG)
 
 ![GetStarted](https://github.com/djayswal/CoalFireEstimation/blob/master/Coal%20Fire%20Estimation%20Images/Calculated%20Ratios.png)
 
-I have created Coal Fire Estimation while doing my internship at CSIR - CIMFR Dhanbad. I express my deep senses of gratitude to Shri Ajay Khalkho (Principal Scientist, CIMFR, Dhanbad) under whose guidance the present project work has been carried out successfully am highly indebted to him for his valuable and sincere guidance and constant encouragement during the development of this project work. I again thank him for providing his precious time to me in the completion of my project. I shall remain ever grateful to him, who unselfishly inculcated in me the spirit of hard work and help me in each and every aspect of this project. He had always provided me a new tricks and techniques to me for solving my project's problems.
+I have created Coal Fire Estimation while doing my internship at CSIR - CIMFR Dhanbad. This project is solely created by me in 2 months with the help of Shri Ajay Khalkho (Principal Scientist, CIMFR, Dhanbad) and I express my deep senses of gratitude to him under whose guidance the present project work has been carried out successfully am highly indebted to him for his valuable and sincere guidance and constant encouragement during the development of this project work. I again thank him for providing his precious time to me in the completion of my project. I shall remain ever grateful to him, who unselfishly inculcated in me the spirit of hard work and help me in each and every aspect of this project. He had always provided me a new tricks and techniques to me for solving my project's problems.
 
 Thank You
+
 Deepanshu Jayswal
